@@ -1,1 +1,6 @@
-$("#datepicker").daterangepicker();
+const pickerOptions = {
+  
+};
+
+
+$("#datepicker").daterangepicker( pickerOptions );
