@@ -36,9 +36,10 @@ $("#datepicker").daterangepicker(
 );
 
 
+document.getElementById('datepicker').click();
+
 
 };
-
 
 
 window.setDateRange = (json) => {
