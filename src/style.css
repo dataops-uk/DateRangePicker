@@ -1,4 +1,8 @@
 body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  padding-top: 0px;
+  padding-left: 10px;
+  padding-right: 80%;
+  width: 10
 }
